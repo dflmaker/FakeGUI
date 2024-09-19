@@ -2,7 +2,7 @@ tqdm
 numpy
 numexpr
 h5py==3.1.0
-opencv-python==4.5.1.48
+opencv-python==4.8.1.78
 ffmpeg-python==0.1.17
 scikit-image
 scipy
